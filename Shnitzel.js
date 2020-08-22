@@ -2900,7 +2900,7 @@ p.nominalBounds = new cjs.Rectangle(0,-0.1,655.4,260.90000000000003);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance}]},328).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance}]},1).to({state:[{t:this.instance_1}]},1).to({state:[]},15).to({state:[{t:this.instance_2}]},17).to({state:[{t:this.instance_3}]},33).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_3}]},1).wait(1));
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(328).to({_off:false},0).wait(1).to({regX:28.1,regY:13.8,scaleX:1.9527,scaleY:1.5987,skewX:7.4187,skewY:-172.5817,x:621.9,y:549.8},0).wait(1).to({scaleX:1.8951,scaleY:1.5516,skewX:6.7917,skewY:-173.2092,x:619.7,y:535.7},0).wait(1).to({scaleX:1.8375,scaleY:1.5044,skewX:6.1647,skewY:-173.8366,x:617.55,y:521.7},0).wait(1).to({scaleX:1.78,scaleY:1.4573,skewX:5.5377,skewY:-174.464,x:615.35,y:507.65},0).wait(1).to({scaleX:1.7224,scaleY:1.4102,skewX:4.9107,skewY:-175.0914,x:613.25,y:493.55},0).wait(1).to({scaleX:1.6648,scaleY:1.363,skewX:4.2837,skewY:-175.7189,x:611.05,y:479.5},0).wait(1).to({scaleX:1.6072,scaleY:1.3159,skewX:3.6568,skewY:-176.3463,x:608.9,y:465.35},0).wait(1).to({scaleX:1.5497,scaleY:1.2688,skewX:3.0298,skewY:-176.9737,x:606.65,y:451.35},0).wait(1).to({scaleX:1.4921,scaleY:1.2217,skewX:2.4028,skewY:-177.6012,x:604.55,y:437.25},0).wait(1).to({scaleX:1.4345,scaleY:1.1745,skewX:1.7758,skewY:-178.2286,x:602.35,y:423.15},0).wait(1).to({scaleX:1.4532,scaleY:1.1899,skewX:0.9922,skewY:-179.0113,x:593.55,y:413.7},0).wait(1).to({scaleX:1.4719,scaleY:1.2052,skewX:0.2087,skewY:-179.794,x:584.85,y:404.25},0).wait(1).to({scaleX:1.4906,scaleY:1.2206,skewX:-0.5749,skewY:-180.5766,x:576,y:394.75},0).wait(1).to({scaleX:1.5092,scaleY:1.236,skewX:-1.3584,skewY:-181.3593,x:567.3,y:385.3},0).wait(1).to({scaleX:1.5279,scaleY:1.2513,skewX:-2.142,skewY:-182.142,x:558.55,y:375.8},0).wait(1).to({scaleX:1.5466,scaleY:1.2667,skewX:-2.9255,skewY:-182.9247,x:549.8,y:366.35},0).wait(1).to({scaleX:1.5653,scaleY:1.282,skewX:-3.7091,skewY:-183.7073,x:541.05,y:356.9},0).wait(1).to({scaleX:1.5839,scaleY:1.2974,skewX:-4.4926,skewY:-184.49,x:532.35,y:347.45},0).wait(15).to({_off:true},1).wait(110));
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(427).to({_off:false},0).wait(1).to({regX:182.4,scaleX:1.0561,scaleY:1.0561,x:596.95,y:384.9},0).wait(1).to({scaleX:1.0543,scaleY:1.0543,x:596.9},0).wait(1).to({scaleX:1.0525,scaleY:1.0525},0).wait(1).to({scaleX:1.0507,scaleY:1.0507,x:596.95},0).wait(1).to({scaleX:1.0489,scaleY:1.0489,x:596.9,y:384.95},0).wait(1).to({scaleX:1.0471,scaleY:1.0471,x:596.95,y:384.9},0).wait(1).to({scaleX:1.0453,scaleY:1.0453,x:596.9},0).wait(1).to({scaleX:1.0436,scaleY:1.0436,x:596.95},0).wait(1).to({scaleX:1.0418,scaleY:1.0418,x:596.9},0).wait(1).to({scaleX:1.04,scaleY:1.04,x:596.95,y:384.95},0).wait(1).to({scaleX:1.0382,scaleY:1.0382,x:596.9,y:384.9},0).wait(1).to({scaleX:1.0364,scaleY:1.0364,x:596.95,y:384.95},0).wait(1).to({scaleX:1.0346,scaleY:1.0346,x:596.9,y:384.9},0).wait(1).to({scaleX:1.0328,scaleY:1.0328,x:596.95},0).wait(1).to({scaleX:1.031,scaleY:1.031,x:596.9},0).wait(1).to({scaleX:1.0293,scaleY:1.0293,x:596.95},0).wait(1).to({x:594.35,y:404.3},0).wait(1).to({x:591.75,y:423.7},0).wait(1).to({x:589.15,y:443.1},0).wait(1).to({x:586.55,y:462.5},0).wait(1).to({x:583.95,y:481.9},0).wait(1).to({x:581.35,y:501.3},0).wait(1).to({x:578.75,y:520.7},0).wait(1).to({x:576.15,y:540.05},0).wait(1).to({x:573.55,y:559.45},0).wait(1).to({x:570.95,y:578.85},0).wait(19));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(427).to({_off:false},0).wait(1).to({regX:182.4,scaleX:1.0579,scaleY:1.0579,x:596.9,y:384.9},0).wait(4).to({scaleX:1.058,scaleY:1.058},0).wait(1).to({x:596.95},0).wait(3).to({scaleX:1.0581,scaleY:1.0581},0).wait(3).to({x:596.9},0).wait(2).to({scaleX:1.0582,scaleY:1.0582},0).wait(3).to({x:594.3,y:404.3},0).wait(1).to({x:591.7,y:423.7},0).wait(1).to({x:589.1,y:443.1},0).wait(1).to({x:586.5,y:462.45},0).wait(1).to({x:583.9,y:481.85},0).wait(1).to({x:581.3,y:501.25},0).wait(1).to({x:578.7,y:520.65},0).wait(1).to({x:576.1,y:540.05},0).wait(1).to({x:573.5,y:559.45},0).wait(1).to({x:570.9,y:578.85},0).wait(19));
 
 	this._renderFirstFrame();
 
@@ -3759,7 +3759,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,310.8,534.6);
 	this.Layer_27.layerIndex = 17
 	this.Layer_27.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.Layer_27).wait(329).to({regX:587,regY:479.4,x:587,y:479.4},0).wait(33).to({regX:0,regY:0,x:0,y:0},0).wait(66).to({regX:587,regY:479.4,x:587,y:479.4},0).wait(43).to({_off:true},1).wait(180));
+	this.timeline.addTween(cjs.Tween.get(this.Layer_27).wait(329).to({regX:584.3,regY:480.8,x:584.3,y:480.8},0).wait(33).to({regX:0,regY:0,x:0,y:0},0).wait(66).to({regX:584.3,regY:480.8,x:584.3,y:480.8},0).wait(43).to({_off:true},1).wait(180));
 
 	// nose1_obj_
 	this.nose1 = new lib.Scene_1_nose1();
@@ -3956,33 +3956,33 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_255.png?1598110934860", id:"CachedBmp_255"},
-		{src:"images/CachedBmp_180.png?1598110934860", id:"CachedBmp_180"},
-		{src:"images/CachedBmp_3.png?1598110934860", id:"CachedBmp_3"},
-		{src:"images/CachedBmp_2.png?1598110934860", id:"CachedBmp_2"},
-		{src:"images/Shnitzel_atlas_.png?1598110934457", id:"Shnitzel_atlas_"},
-		{src:"images/Shnitzel_atlas_2.png?1598110934457", id:"Shnitzel_atlas_2"},
-		{src:"images/Shnitzel_atlas_3.png?1598110934457", id:"Shnitzel_atlas_3"},
-		{src:"images/Shnitzel_atlas_4.png?1598110934457", id:"Shnitzel_atlas_4"},
-		{src:"images/Shnitzel_atlas_5.png?1598110934457", id:"Shnitzel_atlas_5"},
-		{src:"images/Shnitzel_atlas_6.png?1598110934457", id:"Shnitzel_atlas_6"},
-		{src:"images/Shnitzel_atlas_7.png?1598110934458", id:"Shnitzel_atlas_7"},
-		{src:"images/Shnitzel_atlas_8.png?1598110934458", id:"Shnitzel_atlas_8"},
-		{src:"images/Shnitzel_atlas_9.png?1598110934458", id:"Shnitzel_atlas_9"},
-		{src:"images/Shnitzel_atlas_10.png?1598110934458", id:"Shnitzel_atlas_10"},
-		{src:"images/Shnitzel_atlas_11.png?1598110934458", id:"Shnitzel_atlas_11"},
-		{src:"images/Shnitzel_atlas_12.png?1598110934458", id:"Shnitzel_atlas_12"},
-		{src:"images/Shnitzel_atlas_13.png?1598110934459", id:"Shnitzel_atlas_13"},
-		{src:"images/Shnitzel_atlas_14.png?1598110934459", id:"Shnitzel_atlas_14"},
-		{src:"images/Shnitzel_atlas_15.png?1598110934459", id:"Shnitzel_atlas_15"},
-		{src:"images/Shnitzel_atlas_16.png?1598110934459", id:"Shnitzel_atlas_16"},
-		{src:"images/Shnitzel_atlas_17.png?1598110934459", id:"Shnitzel_atlas_17"},
-		{src:"images/Shnitzel_atlas_18.png?1598110934460", id:"Shnitzel_atlas_18"},
-		{src:"images/Shnitzel_atlas_19.png?1598110934460", id:"Shnitzel_atlas_19"},
-		{src:"images/Shnitzel_atlas_20.png?1598110934460", id:"Shnitzel_atlas_20"},
-		{src:"images/Shnitzel_atlas_21.png?1598110934460", id:"Shnitzel_atlas_21"},
-		{src:"images/Shnitzel_atlas_22.png?1598110934461", id:"Shnitzel_atlas_22"},
-		{src:"images/Shnitzel_atlas_23.png?1598110934464", id:"Shnitzel_atlas_23"}
+		{src:"images/CachedBmp_255.png?1598111162883", id:"CachedBmp_255"},
+		{src:"images/CachedBmp_180.png?1598111162883", id:"CachedBmp_180"},
+		{src:"images/CachedBmp_3.png?1598111162884", id:"CachedBmp_3"},
+		{src:"images/CachedBmp_2.png?1598111162884", id:"CachedBmp_2"},
+		{src:"images/Shnitzel_atlas_.png?1598111162499", id:"Shnitzel_atlas_"},
+		{src:"images/Shnitzel_atlas_2.png?1598111162499", id:"Shnitzel_atlas_2"},
+		{src:"images/Shnitzel_atlas_3.png?1598111162499", id:"Shnitzel_atlas_3"},
+		{src:"images/Shnitzel_atlas_4.png?1598111162499", id:"Shnitzel_atlas_4"},
+		{src:"images/Shnitzel_atlas_5.png?1598111162500", id:"Shnitzel_atlas_5"},
+		{src:"images/Shnitzel_atlas_6.png?1598111162500", id:"Shnitzel_atlas_6"},
+		{src:"images/Shnitzel_atlas_7.png?1598111162500", id:"Shnitzel_atlas_7"},
+		{src:"images/Shnitzel_atlas_8.png?1598111162500", id:"Shnitzel_atlas_8"},
+		{src:"images/Shnitzel_atlas_9.png?1598111162500", id:"Shnitzel_atlas_9"},
+		{src:"images/Shnitzel_atlas_10.png?1598111162500", id:"Shnitzel_atlas_10"},
+		{src:"images/Shnitzel_atlas_11.png?1598111162501", id:"Shnitzel_atlas_11"},
+		{src:"images/Shnitzel_atlas_12.png?1598111162501", id:"Shnitzel_atlas_12"},
+		{src:"images/Shnitzel_atlas_13.png?1598111162501", id:"Shnitzel_atlas_13"},
+		{src:"images/Shnitzel_atlas_14.png?1598111162501", id:"Shnitzel_atlas_14"},
+		{src:"images/Shnitzel_atlas_15.png?1598111162501", id:"Shnitzel_atlas_15"},
+		{src:"images/Shnitzel_atlas_16.png?1598111162502", id:"Shnitzel_atlas_16"},
+		{src:"images/Shnitzel_atlas_17.png?1598111162502", id:"Shnitzel_atlas_17"},
+		{src:"images/Shnitzel_atlas_18.png?1598111162502", id:"Shnitzel_atlas_18"},
+		{src:"images/Shnitzel_atlas_19.png?1598111162502", id:"Shnitzel_atlas_19"},
+		{src:"images/Shnitzel_atlas_20.png?1598111162503", id:"Shnitzel_atlas_20"},
+		{src:"images/Shnitzel_atlas_21.png?1598111162503", id:"Shnitzel_atlas_21"},
+		{src:"images/Shnitzel_atlas_22.png?1598111162503", id:"Shnitzel_atlas_22"},
+		{src:"images/Shnitzel_atlas_23.png?1598111162506", id:"Shnitzel_atlas_23"}
 	],
 	preloads: []
 };
