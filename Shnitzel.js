@@ -3561,8 +3561,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,310.8,534.6);
 	// timeline functions:
 	this.frame_0 = function() {
 		this.PlayButton = this.Button.PlayButton;
-		createjs.Sound.registerSound("/sounds/inbar_project.mp3","bgmusic");
-		playSound("inbar_project");
+		createjs.Sound.registerSound("/sounds/inbar.mp3","bgmusic");
+		playSound("inbar");
 		var self=this;
 		self.stop();
 		
@@ -4010,36 +4010,36 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_252.png?1598273233475", id:"CachedBmp_252"},
-		{src:"images/CachedBmp_185.png?1598273233475", id:"CachedBmp_185"},
-		{src:"images/CachedBmp_184.png?1598273233475", id:"CachedBmp_184"},
-		{src:"images/CachedBmp_6.png?1598273233476", id:"CachedBmp_6"},
-		{src:"images/CachedBmp_5.png?1598273233476", id:"CachedBmp_5"},
-		{src:"images/Shnitzel_atlas_.png?1598273233131", id:"Shnitzel_atlas_"},
-		{src:"images/Shnitzel_atlas_2.png?1598273233131", id:"Shnitzel_atlas_2"},
-		{src:"images/Shnitzel_atlas_3.png?1598273233131", id:"Shnitzel_atlas_3"},
-		{src:"images/Shnitzel_atlas_4.png?1598273233132", id:"Shnitzel_atlas_4"},
-		{src:"images/Shnitzel_atlas_5.png?1598273233132", id:"Shnitzel_atlas_5"},
-		{src:"images/Shnitzel_atlas_6.png?1598273233132", id:"Shnitzel_atlas_6"},
-		{src:"images/Shnitzel_atlas_7.png?1598273233132", id:"Shnitzel_atlas_7"},
-		{src:"images/Shnitzel_atlas_8.png?1598273233132", id:"Shnitzel_atlas_8"},
-		{src:"images/Shnitzel_atlas_9.png?1598273233132", id:"Shnitzel_atlas_9"},
-		{src:"images/Shnitzel_atlas_10.png?1598273233132", id:"Shnitzel_atlas_10"},
-		{src:"images/Shnitzel_atlas_11.png?1598273233132", id:"Shnitzel_atlas_11"},
-		{src:"images/Shnitzel_atlas_12.png?1598273233133", id:"Shnitzel_atlas_12"},
-		{src:"images/Shnitzel_atlas_13.png?1598273233133", id:"Shnitzel_atlas_13"},
-		{src:"images/Shnitzel_atlas_14.png?1598273233133", id:"Shnitzel_atlas_14"},
-		{src:"images/Shnitzel_atlas_15.png?1598273233133", id:"Shnitzel_atlas_15"},
-		{src:"images/Shnitzel_atlas_16.png?1598273233133", id:"Shnitzel_atlas_16"},
-		{src:"images/Shnitzel_atlas_17.png?1598273233134", id:"Shnitzel_atlas_17"},
-		{src:"images/Shnitzel_atlas_18.png?1598273233134", id:"Shnitzel_atlas_18"},
-		{src:"images/Shnitzel_atlas_19.png?1598273233134", id:"Shnitzel_atlas_19"},
-		{src:"images/Shnitzel_atlas_20.png?1598273233134", id:"Shnitzel_atlas_20"},
-		{src:"images/Shnitzel_atlas_21.png?1598273233135", id:"Shnitzel_atlas_21"},
-		{src:"images/Shnitzel_atlas_22.png?1598273233135", id:"Shnitzel_atlas_22"},
-		{src:"images/Shnitzel_atlas_23.png?1598273233137", id:"Shnitzel_atlas_23"},
-		{src:"images/Shnitzel_atlas_24.png?1598273233137", id:"Shnitzel_atlas_24"},
-		{src:"sounds/inbar_project.mp3?1598273233476", id:"inbar_project"}
+		{src:"images/CachedBmp_252.png?1598274476769", id:"CachedBmp_252"},
+		{src:"images/CachedBmp_185.png?1598274476769", id:"CachedBmp_185"},
+		{src:"images/CachedBmp_184.png?1598274476769", id:"CachedBmp_184"},
+		{src:"images/CachedBmp_6.png?1598274476769", id:"CachedBmp_6"},
+		{src:"images/CachedBmp_5.png?1598274476769", id:"CachedBmp_5"},
+		{src:"images/Shnitzel_atlas_.png?1598274476415", id:"Shnitzel_atlas_"},
+		{src:"images/Shnitzel_atlas_2.png?1598274476415", id:"Shnitzel_atlas_2"},
+		{src:"images/Shnitzel_atlas_3.png?1598274476415", id:"Shnitzel_atlas_3"},
+		{src:"images/Shnitzel_atlas_4.png?1598274476416", id:"Shnitzel_atlas_4"},
+		{src:"images/Shnitzel_atlas_5.png?1598274476416", id:"Shnitzel_atlas_5"},
+		{src:"images/Shnitzel_atlas_6.png?1598274476416", id:"Shnitzel_atlas_6"},
+		{src:"images/Shnitzel_atlas_7.png?1598274476416", id:"Shnitzel_atlas_7"},
+		{src:"images/Shnitzel_atlas_8.png?1598274476416", id:"Shnitzel_atlas_8"},
+		{src:"images/Shnitzel_atlas_9.png?1598274476416", id:"Shnitzel_atlas_9"},
+		{src:"images/Shnitzel_atlas_10.png?1598274476416", id:"Shnitzel_atlas_10"},
+		{src:"images/Shnitzel_atlas_11.png?1598274476416", id:"Shnitzel_atlas_11"},
+		{src:"images/Shnitzel_atlas_12.png?1598274476417", id:"Shnitzel_atlas_12"},
+		{src:"images/Shnitzel_atlas_13.png?1598274476417", id:"Shnitzel_atlas_13"},
+		{src:"images/Shnitzel_atlas_14.png?1598274476417", id:"Shnitzel_atlas_14"},
+		{src:"images/Shnitzel_atlas_15.png?1598274476417", id:"Shnitzel_atlas_15"},
+		{src:"images/Shnitzel_atlas_16.png?1598274476417", id:"Shnitzel_atlas_16"},
+		{src:"images/Shnitzel_atlas_17.png?1598274476418", id:"Shnitzel_atlas_17"},
+		{src:"images/Shnitzel_atlas_18.png?1598274476418", id:"Shnitzel_atlas_18"},
+		{src:"images/Shnitzel_atlas_19.png?1598274476418", id:"Shnitzel_atlas_19"},
+		{src:"images/Shnitzel_atlas_20.png?1598274476418", id:"Shnitzel_atlas_20"},
+		{src:"images/Shnitzel_atlas_21.png?1598274476419", id:"Shnitzel_atlas_21"},
+		{src:"images/Shnitzel_atlas_22.png?1598274476419", id:"Shnitzel_atlas_22"},
+		{src:"images/Shnitzel_atlas_23.png?1598274476421", id:"Shnitzel_atlas_23"},
+		{src:"images/Shnitzel_atlas_24.png?1598274476421", id:"Shnitzel_atlas_24"},
+		{src:"sounds/inbar.mp3?1598274476769", id:"inbar"}
 	],
 	preloads: []
 };
