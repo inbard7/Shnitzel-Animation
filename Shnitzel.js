@@ -3562,7 +3562,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,310.8,534.6);
 	this.frame_0 = function() {
 		this.PlayButton = this.Button.PlayButton;
 		createjs.Sound.registerSound("https://inbard7.github.io/Shnitzel-Animation/sounds/inbarfinal.mp3","bgmusic");
-		playSound("inbarfinal.mp3");
+		playSound("bgmusic");
 		var self=this;
 		self.stop();
 		
